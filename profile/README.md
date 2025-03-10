@@ -2,7 +2,7 @@
 
 ## Tech Transit – LogiTHON 2024  
 
-![Tech Transit](https://github.com/Tech-Transit/banner.png)  
+![Tech Transit](./Banner.png)  
 
 ## 📌 Problem Statement  
 A small logistics provider needs a smart solution to determine the **best shipping route for cargo** traveling across borders using **multi-modal transportation** (land, air, and sea).  
