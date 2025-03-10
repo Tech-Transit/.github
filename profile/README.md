@@ -19,7 +19,16 @@ Our solution: **Multi-Modal Cross-Border Route Selector** – an intelligent log
 - **[Pratibha Singh](https://github.com/pratibhasingh47)** – 🎨 **Frontend Developer** | UI/UX & Frontend Implementation  
 - **[Raghavendra Baheti](https://github.com/Raghavendrabaheti)** – 🔧 **Backend & Deployment** | Server Management & Infrastructure  
 - **[Akash Soni](https://github.com/akash2061)** – 🛠️ **Backend, API & Deployment** | API Development & System Deployment  
+<!-- 
+## 👥 Team Members & Roles  
 
+| Name                 | Role                          | Responsibilities                         |
+|----------------------|-----------------------------|-----------------------------------------|
+|**[Toheed Akhtar](https://github.com/toheedakhtar)** |  🚀 **Team Leader**              | Architect of Core Logic, ML Developer  |
+|**[Pratibha Singh](https://github.com/pratibhasingh47)** |  🎨 **Frontend Developer**      | UI/UX Design, Frontend Implementation  |
+|**[Raghavendra Baheti](https://github.com/Raghavendrabaheti)** |  🔧 **Backend & Deployment**  | Server Management, Infrastructure      |
+|**[Akash Soni](https://github.com/akash2061)**    |  🛠️ **Backend, API & Deployment** | API Development, System Deployment    |
+ -->
 ## 🔍 How It Works  
 1. **User Input:** Origin, destination, cargo details, and priority (cheapest vs. fastest).  
 2. **Route Calculation:** Using **Dijkstra’s Algorithm**, we generate multi-modal routes with cost & time estimates.  
