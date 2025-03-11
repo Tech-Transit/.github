@@ -68,4 +68,4 @@ Our project is containerized and available on Docker Hub:
 🚀 Check out our live demo **[here](#)** (Add a link if available).   -->
 
 ## 📜 License  
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
+This project is licensed under the MIT License – see the [LICENSE](../LICENSE) file for details.  
