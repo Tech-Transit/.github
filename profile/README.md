@@ -60,8 +60,8 @@ This project was developed as part of **LogiTHON 2024**. **Tech Transit** worked
 
 Our project is containerized and available on Docker Hub:  
 
-- **Frontend Image:** [Frontend Docker Hub Link](https://hub.docker.com/r/akash2061/frontend)  
-- **Backend Image:** [Backend Docker Hub Link](https://hub.docker.com/r/akash2061/flask)  
+- **Frontend Image:** [Frontend Docker Hub Link](https://hub.docker.com/r/akash2061/frontend)  [![Docker Image CI [Fontend:wf]](https://github.com/Tech-Transit/Frontend/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Tech-Transit/Frontend/actions/workflows/docker-image.yml)
+- **Backend Image:** [Backend Docker Hub Link](https://hub.docker.com/r/akash2061/flask)  [![Docker Image CI [flask:wf]](https://github.com/Tech-Transit/route-optimization-engine/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Tech-Transit/route-optimization-engine/actions/workflows/docker-image.yml)
 
 <!-- 
 ## 📽️ Demo  
