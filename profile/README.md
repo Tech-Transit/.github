@@ -1,6 +1,6 @@
 # 🚀 Multi-Modal Cross-Border Route Optimization  
 
-## Tech Transit – LogiTHON 2024  
+## Tech Transit – LogiTHON 2025 
 
 ![Tech Transit](./Banner.png)  
 
