@@ -53,7 +53,7 @@ Our solution: **Multi-Modal Cross-Border Route Selector** – an intelligent log
 - **API for Integration**  
 
 ## 🏆 LogiTHON Project  
-This project was developed as part of **LogiTHON 2024**. **Tech Transit** worked together to create this innovative logistics solution.  
+This project was developed as part of **LogiTHON 2025**. **Tech Transit** worked together to create this innovative logistics solution.  
 
 
 ## 🐳 Docker Hub Deployment  
